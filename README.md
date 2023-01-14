@@ -25,6 +25,22 @@ A collection of mini-games
 
 ## Convention
 
+### Git
+
+#### Commit
+
+`(#issue번호) tag: title`
+
+| tag      | desc.                                  |
+| -------- | -------------------------------------- |
+| feat     | 새로운 기능 추가                       |
+| fix      | 버그 수정                              |
+| docs     | 문서 수정                              |
+| style    | UI 작업 수정                           |
+| refactor | 코드 리펙토링                          |
+| test     | 테스트 코드, 리펙토링 테스트 코드 정가 |
+| chore    | 빌드 업무 수정, 패키지 매니저 수정     |
+
 ### Code
 
 #### Prettier & Lint
